@@ -1,7 +1,7 @@
 ========================================
         OPEN SOURCE MANIFESTO
           Generated: March 20, 2026
-            by: ruddransh
+            by: suryansh
 ========================================
 
 I use vlc every day. It is not just a tool to me — it is a 
@@ -23,4 +23,4 @@ should be transparent and knowledge should be free.
 This is my manifesto.
 This is my commitment.
 
-RUDDRANSH
+SURYANSH
