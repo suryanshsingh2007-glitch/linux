@@ -1,8 +1,8 @@
 
 # Open Source Audit Project — Git
 
-Student Name: Aman Raj
-Registration Number: 24BCE10914
+Student Name: Ruddransh Bhardwaj
+Registration Number: 24BCE10011
 Course: Open Source Software (OSS NGMC)
 Chosen Software: Git
 Date: March 2026
@@ -245,12 +245,12 @@ Install using the commands given above.
 
 ## Author Information
 
-Name: Aman Raj
-Registration Number: 24BCE10914
+Name: Ruddransh Bhardwaj
+Registration Number: 24BCE10011
 Course: Open Source Software (OSS NGMC)
 Date of Submission: March 20, 2026
 Chosen Software: Git
-GitHub Username: amanraj947
+GitHub Username: Call-me-ruddra
 
 ---
 
