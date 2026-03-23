@@ -1,11 +1,11 @@
 
 # Open Source Audit Project — Git
 
-Student Name: Ruddransh Bhardwaj
-Registration Number: 24BCE10011
+Student Name: Suryansh Singh
+Registration Number: 24BCE11457
 Course: Open Source Software (OSS NGMC)
 Chosen Software: Git
-Date: March 2026
+Date: 24 March 2026
 
 ---
 
@@ -245,32 +245,11 @@ Install using the commands given above.
 
 ## Author Information
 
-Name: Ruddransh Bhardwaj
-Registration Number: 24BCE10011
+Name: Suryansh Singh
+Registration Number: 24BCE11457
 Course: Open Source Software (OSS NGMC)
-Date of Submission: March 20, 2026
+Date of Submission: March 24, 2026
 Chosen Software: Git
-GitHub Username: Call-me-ruddra
+GitHub Username: suryanshsingh2007-glitch
 
 ---
-
-## Repository Link
-
-[https://github.com/amanraj947/oss-audit-24BCE10914](https://github.com/amanraj947/oss-audit-24BCE10914)
-
----
-
-## Quick Start Commands
-
-```bash
-git clone https://github.com/amanraj2706/oss-audit-24BCE10914.git
-cd oss-audit-24BCE10914/scripts
-
-chmod +x *.sh
-
-./script1_system_report.sh
-./script2_package_inspector.sh
-./script3_disk_auditor.sh
-sudo ./script4_log_analyzer.sh
-./script5_manifesto_gen.sh
-```
